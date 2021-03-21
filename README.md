@@ -14,11 +14,11 @@ is $100, and the strike price is $70.
 
 It is known that <em>a</em> = 0.08, <em>b</em> = 0.05, &sigma; = 0.02, <em>s</em> = 5, <em>T</em> = 1, <em>L</em> = 100, <em>K</em> = 70. So, we can have:
 
-<img src="media/image1.PNg" width = "350" align="center">
+<img src="media/image1.PNG" width = "350" align="center">
 
 With the results above, the European call price should be:
 
-<img src="media/image2.PNg" width = "500" align="center">
+<img src="media/image2.PNG" width = "500" align="center">
 
 The price should be 11.3077 and the code is shown as below:
 
